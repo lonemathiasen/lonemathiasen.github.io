@@ -1,0 +1,143 @@
+html {
+        background-color: #DCDCDC;
+        margin: 25px auto 25px;
+}
+
+/*-----BODY-----*/
+
+body {
+        font-family: sans-serif;
+        font-size: 14pt;
+        margin: 0px auto 25px;
+        background-color: #F1F1F1;
+        width: 990px;
+        text-align: center;
+        border-radius: 50px;
+}
+
+/*-----DIV-----*/
+
+#content {
+        width: 700px;
+        margin: 0px auto;
+        text-align: left;
+}
+
+#content img {
+        display: block;
+        margin: 20px auto 10px;
+}
+
+.img_text {
+        text-align: center;
+        font-size: 10pt;
+        color: green;
+        margin-bottom: 10px;
+}
+
+/*-----SPAN-----*/
+
+#response {
+        font-size: 125%;
+        color: red;
+}
+
+#green {
+    color: green;
+}
+
+/*-----HEADER-----*/
+
+h1 {
+        font-size: 20pt;
+}
+
+h2 {
+        font-size: 16pt;
+}
+
+/*-----A-----*/
+
+a:link {
+        color: blue;
+        text-decoration: none;
+        font-weight: bold;
+}
+
+a:hover {
+        color: red;
+        text-decoration: underline;
+}
+
+a:visited {
+        color: navy;
+        text-decoration: bold;
+}
+
+/*-----MENU-----*/
+
+#nav {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        width: 100%;
+        font-size: 14pt;
+}
+
+#nav li {
+        float: left;
+        width: 25%;
+}
+
+#nav a:link {
+        display: block;
+        width: 100%;
+        font-weight: bold;
+        color: #FFFFFF;
+        background-color: #98bf21;
+        text-align: center;
+        padding: 4px 0 4px;
+        text-decoration: none;
+        text-transform: uppercase;
+}
+
+#nav a:visited {
+        display: block;
+        width: 100%;
+        font-weight: bold;
+        color: #FFFFFF;
+        background-color: #98bf21;
+        text-align: center;
+        padding: 4px 0 4px;
+        text-decoration: none;
+        text-transform: uppercase;
+}
+
+#nav a:hover {
+        background-color: #7A991A;
+}
+
+#nav a:active {
+        background-color: #7A991A;
+}
+
+#tilmeldinger {
+        width: 100%;
+}
+
+#tilmeldinger td {
+        border: 1px solid #98bf21;
+        padding: 3px 7px 2px;
+}
+
+#tilmeldinger thead td {
+        padding: 5px auto 4px;
+        background-color: #A7C942;
+        color: #FFFFFF;
+}
+
+#tilmeldinger tr.alt td {
+        color: #000000;
+        background-color: #EAF2D3;
+}
