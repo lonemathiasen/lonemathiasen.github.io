@@ -1,2 +1,6 @@
 name: Roses Line
 title: Your awesome title
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
