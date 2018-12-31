@@ -167,3 +167,49 @@ a:visited {
         color: #000000;
         background-color: #EAF2D3;
 }
+
+
+
+
+
+
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+th {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+  color: #444;
+}
+
+td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+  border-right: 1px solid #ffcc00;
+}
+
+td:first-child {
+  border-left: 1px solid #ffcc00;
+}
+
+
+
+blockquote {
+  border-left:1px solid #ffcc00;
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:italic;
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
+}
+
+pre code {
+  margin: 0px;
+  padding: 0px;
+}

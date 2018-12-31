@@ -190,6 +190,7 @@ bliver | det | rigtigt | oversat
 og | bliver | ret | pænt
 på | den | færdige | side
 ```
+
 | Navn      | Køn     | Fødselsdag   |
 | --------- | ------- | ------------ |
 | Jeppe     | Mand    | 01/04-2018   |
@@ -197,6 +198,7 @@ på | den | færdige | side
 | *Kursiv*  | **Fed** | understøttes |
 
 Ovenstående er meget letlæseligt i Markdown. Det behøves dog ikke være så pænt formateret:
+
 Selvom | jeg | formatere | grimt
 --- | --- | --- | ---
 bliver | det | rigtigt | oversat
