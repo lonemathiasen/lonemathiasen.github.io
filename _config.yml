@@ -1,5 +1,4 @@
 name: Roses Line
-title: Your awesome title
 markdown: kramdown
 kramdown:
   input: GFM
