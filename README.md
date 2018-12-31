@@ -12,7 +12,7 @@ Indholdet af siderne findes i følgende filer:
 
 Templaten for siderne kan findes i
 ```
-/_layout/default.html
+/_layouts/default.html
 ```
 
 CSS er i
