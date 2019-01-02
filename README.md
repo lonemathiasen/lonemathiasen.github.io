@@ -10,7 +10,7 @@ Indholdet af siderne findes i følgende filer:
 /page4.md
 ```
 
-Templaten for siderne kan findes i
+Templaten for siderne er skrevet i HTML og findes i
 ```
 /_layouts/default.html
 ```
