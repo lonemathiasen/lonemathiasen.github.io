@@ -4,7 +4,22 @@ title: Markdown
 description: Markdown guide
 ---
 
-Dette er en guide til Markdown. Det er tiltænkt som et opslagsværk, så man hurtigt kan se hvilke kommandoer man kan bruge til at få forskellige styles. Guiden er inspireret af dette [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Alle eksempler vil indeholde et eksempel på det man skal skrive og efterfølgende vise hvordan resultatet kommer til at se ud. For eksempel således:
+Dette er en guide til Markdown. Det er tiltænkt som et opslagsværk, så man hurtigt kan se hvilke kommandoer man kan bruge til at få forskellige styles. Guiden er inspireret af dette [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+Guiden indeholder følgende ting:
+
+* [Tekst og linjeskift](#normal-tekst-og-linjeskift)
+* [Overskrifter](#overskrifter)
+* [Fremhævning](#fremhævning)
+* [Lister](#lister)
+* [Links](#links)
+* [Billeder](#billeder)
+* [Kode](#kode)
+* [Tabeller](#tabeller)
+* [Citeringer](#citeringer)
+* [Skillestreger](#skillestreger)
+
+Alle eksempler vil indeholde et eksempel på det man skal skrive og efterfølgende vise hvordan resultatet kommer til at se ud. For eksempel således:
 ```md
 Dette vil være eksempel kode
 ```
