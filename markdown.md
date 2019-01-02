@@ -2,7 +2,6 @@
 layout: default
 title: Markdown
 description: Markdown guide
-header: Markdown cheat sheet
 ---
 
 Dette er en guide til Markdown. Det er tiltænkt som et opslagsværk, så man hurtigt kan se hvilke kommandoer man kan bruge til at få forskellige styles. Guiden er inspireret af dette [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Alle eksempler vil indeholde et eksempel på det man skal skrive og efterfølgende vise hvordan resultatet kommer til at se ud. For eksempel således:
