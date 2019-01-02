@@ -14,7 +14,7 @@ Her vil der vises hvordan det rent faktisk vil se ud på hjemmesiden.
 
 ## Normal tekst og linjeskift
 Hvis man bare skriver tekst, bliver det blot sat ind på hjemmesiden som det står. Ganske lige til. Hvis man laver et enkelt linjeskift har det ingen indflydelse.
-Hvis man gerne vil lave et enkelt linjeskift, gør man der ved at slutte en linje med en backslash (`\`), eller med to mellemrum.
+Hvis man gerne vil lave et enkelt linjeskift, gør man det ved at slutte en linje med en backslash (`\`), eller med to mellemrum.
 Hvis man derimod laver et dobbelt linjeskift, (så der kommer en tom linje) får man en ny paragraf. Dette ser således ud:
 ```md
 Her er noget tekst.
