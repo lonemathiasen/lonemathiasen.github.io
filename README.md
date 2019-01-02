@@ -28,6 +28,4 @@ Billeder og andet indhold er i mappen
 ## Sider
 Siderne er skrevet i Markdown. Ved commit af ændringer til repositoriet compiles siderne automatisk til HTML af Jekyll.
 
-## Markdown cheat sheet
-
-
+En guide i Markdown syntaksen er tilgængelig i [markdown.md](http://lonemathiasen.github.io/markdown.html)
