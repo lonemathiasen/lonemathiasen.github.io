@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Front page
+title: Roselines
 description: Awesome description here
 ---
 
