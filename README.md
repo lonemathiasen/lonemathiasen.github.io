@@ -1,5 +1,5 @@
-# Rose Lines hjemmeside
-Dette repositorie indeholder kildekoden til Rose Lines hjemmeside. Hjemmesiden bugges med Jekyll og hostes med GitHub Pages. Hjemmesiden kan ses på [lonemathiasen.github.io](http://lonemathiasen.github.io).
+# Roselines hjemmeside
+Dette repositorie indeholder kildekoden til Roselines hjemmeside. Hjemmesiden bygges med Jekyll og hostes med GitHub Pages. Hjemmesiden kan ses på [lonemathiasen.github.io](http://lonemathiasen.github.io).
 
 ## Mappestruktur
 Indholdet af siderne findes i følgende filer:

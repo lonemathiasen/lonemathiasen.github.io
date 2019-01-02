@@ -1,4 +1,4 @@
-name: Roses Line
+name: Roselines
 markdown: kramdown
 kramdown:
   input: GFM
