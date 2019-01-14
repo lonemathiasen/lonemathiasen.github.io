@@ -1,5 +1,5 @@
 # Roselines hjemmeside
-Dette repositorie indeholder kildekoden til Roselines hjemmeside. Hjemmesiden bygges med Jekyll og hostes med GitHub Pages. Hjemmesiden kan ses på [lonemathiasen.github.io](http://lonemathiasen.github.io).
+Dette repositorie indeholder kildekoden til Roselines hjemmeside. Hjemmesiden bygges med Jekyll og hostes med GitHub Pages. Hjemmesiden kan ses på [roselines.dk](http://roselines.dk).
 
 ## Mappestruktur
 Indholdet af siderne findes i følgende filer:
