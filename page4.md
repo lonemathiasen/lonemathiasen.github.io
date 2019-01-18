@@ -1,15 +1,20 @@
 ---
 layout: default
-title: Info
+title: Roselines
 description: Awesome description here
 ---
 
 
+**Informationer**
 
 Vedtægter for Roselines:
 
 
+![beskrivelse](/assets/Vedtægter Roselines 2018) 
+
+
 ---
+
 
 **Bestyrelse:**
 
@@ -22,7 +27,10 @@ Instruktør repræsentant | Lone Mathiasen
 Medlem | Mathilde Christensen
 
 
+
 ---
+
+
 
 Kontakt for yderligere info: Instruktør Lone Mathiasen
 
