@@ -7,7 +7,7 @@ description: Awesome description here
 
 
 
-# **Informationer**
+# **Informationer:**
 
 # Vedtægter for Roselines:
 
