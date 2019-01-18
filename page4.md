@@ -1,6 +1,27 @@
 ---
 layout: default
-title: Page 4
+title: Info
 description: Awesome description here
 ---
-Dette er page 4!
+
+
+
+Vedtægter for Roselines:
+
+
+---
+
+**Bestyrelse:**
+--- | ---
+Formand | Liese Mikkelsen
+Kasserer | Hanne Rasmussen
+Sekretær | Hanne Nielsen
+Instruktør repræsentant | Lone Mathiasen
+Medlem | Mathilde Christensen
+
+
+---
+
+Kontakt for yderligere info: Instruktør Lone Mathiasen
+
+Mobil 24245477
