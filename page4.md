@@ -12,8 +12,11 @@ Vedtægter for Roselines:
 ---
 
 **Bestyrelse:**
+
+Titel | Navn
 --- | ---
 Formand | Liese Mikkelsen
+
 Kasserer | Hanne Rasmussen
 Sekretær | Hanne Nielsen
 Instruktør repræsentant | Lone Mathiasen
