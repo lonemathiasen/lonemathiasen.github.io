@@ -5,6 +5,8 @@ description: Awesome description here
 ---
 
 
+
+
 **Informationer**
 
 Vedtægter for Roselines:
@@ -13,7 +15,9 @@ Vedtægter for Roselines:
 ![beskrivelse](/assets/Vedtægter Roselines 2018) 
 
 
+
 ---
+
 
 
 **Bestyrelse:**
@@ -26,6 +30,8 @@ Sekretær | Hanne Nielsen
 Instruktør repræsentant | Lone Mathiasen
 Medlem | Mathilde Christensen
 
+
+Næste generalforsamling i Marts 2019
 
 
 ---
