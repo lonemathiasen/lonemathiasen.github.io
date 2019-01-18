@@ -7,9 +7,9 @@ description: Awesome description here
 
 
 
-**Informationer**
+# **Informationer**
 
-Vedtægter for Roselines:
+# Vedtægter for Roselines:
 
 
 ![beskrivelse](/assets/Vedtægter Roselines 2018) 
@@ -20,7 +20,7 @@ Vedtægter for Roselines:
 
 
 
-**Bestyrelse:**
+# **Bestyrelse:**
 
 Titel | Navn
 --- | ---
@@ -38,6 +38,8 @@ Næste generalforsamling i Marts 2019
 
 
 
-Kontakt for yderligere info: Instruktør Lone Mathiasen
+# Kontakt for yderligere info: 
+
+Instruktør Lone Mathiasen
 
 Mobil 24245477
