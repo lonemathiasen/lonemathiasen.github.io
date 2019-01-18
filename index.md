@@ -4,7 +4,7 @@ title: Roselines
 description: Awesome description here
 ---
 
- ![Roselines i Skærbæk 2018](/assets/2018 bil.jpg)
+ ![Roselines i Skærbæk 2018](/assets/2018 bil (2).jpg)
 
 ---
 
@@ -12,3 +12,8 @@ description: Awesome description here
 
 Har du danset linedance før og har du lyst til at prøve at være med, så kig forbi og dans med en aften. Vi glæder os til at se dig :-).
 
+---
+
+![Mathilde og Lone](/assets/instruktør 2018.jpg)
+
+Instruktører: **Mathilde og Lone**
