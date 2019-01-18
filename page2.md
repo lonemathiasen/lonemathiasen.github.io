@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Page 2
+title: **Billed Galleri**
 description: Awesome description here
 ---
 
