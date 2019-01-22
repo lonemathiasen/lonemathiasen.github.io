@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Roselines
+title:
 description: Awesome description here
 ---
 

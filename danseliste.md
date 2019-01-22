@@ -1,11 +1,8 @@
 ---
 layout: default
-title: Danseliste
+title: Danseliste -
 description: Awesome description here
 ---
-
-
-# **Danseliste**
 
 
 # Danse sæson 2018:

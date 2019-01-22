@@ -1,18 +1,13 @@
 ---
 layout: default
-title: Roselines
+title: Info -
 description: Awesome description here
 ---
-
-
-
-
-# **Informationer:**
 
 # Vedtægter for Roselines:
 
 
-![beskrivelse](/assets/Vedtægter Roselines 2018) 
+[Se vedtægterne her](/assets//Vedtægter Roselines 13.11.2018.docx)
 
 
 
@@ -40,6 +35,5 @@ Næste generalforsamling i Marts 2019
 
 # Kontakt for yderligere info: 
 
-Instruktør Lone Mathiasen
-
+Instruktør Lone Mathiasen  
 Mobil 24245477

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Roselines
+title: Galleri -
 description: Awesome description here
 ---
 
 
 
-# **Billed galleri**
+# **Billedgalleri**
 
 ![Skærbæk 2018 - gågaden](/assets/Gågade 2018.jpg)
 
