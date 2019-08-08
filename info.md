@@ -26,7 +26,7 @@ Instruktør repræsentant | Lone Mathiasen
 Medlem | Mathilde Christensen
 
 
-Næste generalforsamling i Marts 2019
+Næste generalforsamling i Marts 2020
 
 
 ---
