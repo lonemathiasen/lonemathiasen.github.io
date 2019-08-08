@@ -4,7 +4,7 @@ title:
 description: Awesome description here
 ---
 
- ![Roselines i Skærbæk 2018](/assets/2018 bil (2).jpg)
+ ![Roselines i Skærbæk 2019](/assets/Skærbæk 2019.jpg)
 
 
 Skærbæk 2018
