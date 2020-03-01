@@ -13,7 +13,7 @@ Skærbæk 2019
 
 **Roselines** en en lille linedanceforening oprettet i 2018 med base i Hornslet. Vi danser hver **tirsdag fra kl 18.30 til 21.00 i den nye gymnastiksal på Hornslet Skole.** 
 
-**Sæsonstart er d. 13/8 2019.**
+**Sæsonstart igen i august 2020.**
 
 Vi danser primært let øvede danse, men vi forsøger at lave udfordringer for alle :-). Vi syntes det skal være sjovt og hyggeligt at mødes om dansen, så det sociale er også vigtigt i vores forening.
 
