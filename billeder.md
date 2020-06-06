@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Galleri -
-description: Awesome description here
+description: YOLO
 ---
 
 
