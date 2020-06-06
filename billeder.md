@@ -12,7 +12,7 @@ description: YOLO
 
 ---
 
-![Skærbæk 2018 - old car](/assets/Skærbæk 2018 - 4.jpg)
+![Skærbæk 2018 - old car](/assets/Skærbæk med bil 2018.jpg)
 
 ---
 
