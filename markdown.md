@@ -159,6 +159,18 @@ Indsættelse med reference: ![beskrivelse][markdown-logo]
 
 [markdown-logo]: /assets/markdown.svg
 
+Alle billeder vil som udgangspunkt fylde hele bredden af siden. Dette kan ændres således:
+```md
+Billede der fylder 25% bredde: ![beskrivelse](/assets/markdown.svg){:.w-25 .mx-auto .d-block}
+Billede der fylder 50% bredde: ![beskrivelse](/assets/markdown.svg){:.w-50 .mx-auto .d-block}
+Billede der fylder 75% bredde: ![beskrivelse](/assets/markdown.svg){:.w-75 .mx-auto .d-block}
+```
+Billede der fylder 25% bredde: ![beskrivelse](/assets/markdown.svg){:.w-25 .mx-auto .d-block}
+Billede der fylder 50% bredde: ![beskrivelse](/assets/markdown.svg){:.w-50 .mx-auto .d-block}
+Billede der fylder 75% bredde: ![beskrivelse](/assets/markdown.svg){:.w-75 .mx-auto .d-block}
+
+
+
 ---
 
 ## Kode
