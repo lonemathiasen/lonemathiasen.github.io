@@ -20,7 +20,7 @@ description: YOLO
 
 ---
 
-![Gran Canaria 2018](/assets/Gran Canaria 2018.jpg)
+![Colina Mar](/assets/Colina Mar.png)
 
 ---
 
