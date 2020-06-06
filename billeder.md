@@ -12,11 +12,23 @@ description: YOLO
 
 ---
 
+![Skærbæk piger](/assets/Skærbæk piger.png)
+
+---
+
 ![Skærbæk 2018 - gågaden](/assets/Gågade 2018.jpg)
 
 ---
 
+![Hatte](/assets/Hatte.JPG)
+
+---
+
 ![Skærbæk 2018 - old car](/assets/Skærbæk med bil 2018.jpg)
+
+---
+
+![Skærbæk 2018 Closeup](/assets/Skærbæk closeup.PNG)
 
 ---
 
