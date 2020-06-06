@@ -20,7 +20,7 @@ description: YOLO
 
 ---
 
-![Colina Mar](/assets/Colina Mar.png)
+![Skærbæk og Colina Mar](/assets/Skærbæk:Colina Mar.png)
 
 ---
 
