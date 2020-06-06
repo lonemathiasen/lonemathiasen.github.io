@@ -21,6 +21,4 @@ Har du danset linedance før og har du lyst til at prøve at være med, så kig 
 
 ---
 
-![Mathilde og Lone](/assets/Instruktør 2018.jpg)
-
 Instruktører: **Mathilde og Lone**
