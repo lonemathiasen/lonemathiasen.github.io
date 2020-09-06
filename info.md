@@ -15,7 +15,7 @@ description: Awesome description here
 # GDPR Roselines:
 
 
-{Se GDPR her](/assets//GDPR Roselines.docx)
+[Se GDPR her](/assets//GDPR Roselines.docx)
 
 
 
@@ -36,6 +36,7 @@ Sekretær | Hanne Nielsen
 Instruktør repræsentant | Lone Mathiasen
 Medlem | Mathilde Christensen
 
+---
 
 Næste generalforsamling i Marts 2021
 
