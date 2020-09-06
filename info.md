@@ -11,6 +11,7 @@ description: Awesome description here
 
 
 
+
 ---
 
 
@@ -26,7 +27,7 @@ Instruktør repræsentant | Lone Mathiasen
 Medlem | Mathilde Christensen
 
 
-Næste generalforsamling i Marts 2020
+Næste generalforsamling i Marts 2021
 
 
 ---
