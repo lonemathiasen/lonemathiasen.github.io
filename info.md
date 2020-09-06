@@ -12,6 +12,16 @@ description: Awesome description here
 
 
 
+# GDPR Roselines:
+
+
+{Se GDPR her](/assets//GDPR Roselines.docx)
+
+
+
+
+
+
 ---
 
 
