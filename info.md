@@ -38,7 +38,7 @@ Medlem | Mathilde Christensen
 
 ---
 
-Næste generalforsamling i Marts 2021
+Næste generalforsamling i Marts 2021 eller når COVID-19 gør det muligt at mødes
 
 
 ---
