@@ -34,11 +34,11 @@ Formand | Liese Mikkelsen
 Kasserer | Hanne Rasmussen
 Sekretær | Hanne Nielsen
 Instruktør repræsentant | Lone Mathiasen
-Medlem | Mathilde Christensen
+Medlem | Jette Baade Mortensen
 
 ---
 
-Næste generalforsamling i Marts 2021 eller når COVID-19 gør det muligt at mødes
+Næste generalforsamling i Marts 2022.
 
 
 ---
