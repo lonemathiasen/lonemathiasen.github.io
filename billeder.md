@@ -24,7 +24,7 @@ description: YOLO
 
 ---
 
-![Skærbæk 2018 - old car](/assets/Skærbæk med bil 2018.jpg)
+![Skærbæk 2021](/assets/Skærbæk 2021,1.jpg)
 
 ---
 
