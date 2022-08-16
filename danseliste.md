@@ -14,7 +14,7 @@ description: Awesome description here
 * A Lot About A Little
 * Corn
 
-# Danse sæson 2020-2021:
+# Danse. Sæson 2022-2023:
 
 * A Lot About A Little
 * Alright Already
@@ -28,9 +28,10 @@ description: Awesome description here
 * Corn
 * Country Boy Loven'
 * Country Roads
+* Crazy Foot Mambo
 * Crystal Touch
 * Cut A Rug
-* Do It All again
+* Do It All Again
 * Down The Dixie Road
 * Down To The Honkeytonk
 * Float Ya' Boat
@@ -39,6 +40,7 @@ description: Awesome description here
 * For The Longest Time
 * Galway Girl
 * Get It Right
+* Green Green Grass
 * Gypsy Queen
 * Hotel Angel
 * I Cloce My Eyes
@@ -63,11 +65,16 @@ description: Awesome description here
 * Mr. Lonely
 * My Little Old Lover
 * Old And Grey
-* Reunited
+* Pick A Bale
 * Pick up Your Phone
 * Playboys
+* Pretty Little Girl From Omagh
+* Reunited
 * Rollin' Home
 * Sand
+* See You Smile
+* September 81
+* Sexy Eyes
 * Shape I'm In
 * She Cares
 * Something In The Water
