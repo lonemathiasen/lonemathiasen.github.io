@@ -25,4 +25,8 @@ Vi glæder os til at se dig :-).
 
 ---
 
+![Velkommen til Linedance](/assets/Sæson2022.jpg)
+
+---
+
 Instruktør: **Lone Mathiasen**
