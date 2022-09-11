@@ -4,24 +4,26 @@ title: Danseliste -
 description: Awesome description here
 ---
 
-# Årsdanse og Gadedanse 2022
+# Årsdanse 2023
 
-* Bad Habits Leads To You
-* Train Wreck
-* Float ya' Boat
-* Do It All Again
-* Sunset Road
-* A Lot About A Little
-* Corn
+* Love Grows
+* Mighty Fine
+* Bottom Of The Bottle
+* Make It
+* Storm And Stone
+* Knock Off
+
 
 # Danse. Sæson 2022-2023:
 
+* A Different Summer
 * A Lot About A Little
 * Alright Already
 * Adalaida
 * Bad Habits Leads To You
 * Bonaparte's Retreat
 * Bosa Nova
+* Bottom Of The Bottle
 * Chica Boom Boom
 * Cold Heart
 * Come Dance With Me
@@ -54,16 +56,21 @@ description: Awesome description here
 * Just Fly
 * Kill The Spiders
 * Knee Deep
+* Knock Off
 * Little Rumba
 * Lonely Blues
 * Lonely Drum
 * Louisiana
+* Love Grows
+* Make It
 * Mama's Pearls
 * Mamma Maria
 * Makita
+* Mighty Fine
 * Most People
 * Mr. Lonely
 * My Little Old Lover
+* Nice And Easy
 * Old And Grey
 * Pick A Bale
 * Pick up Your Phone
@@ -82,6 +89,7 @@ description: Awesome description here
 * Speak To The Sky
 * Stars in My Eyes
 * Stay All Night
+* Storm And Stone
 * Sunset Road
 * Such A Fool
 * Sweet Sweet Smile
