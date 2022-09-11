@@ -21,12 +21,7 @@ Har du lyst til at prøve at være med, så kig forbi og dans med en aften, der 
 Vi glæder os til at se dig :-).
 
 
-**Ny sæson starter 23 August 2022.**
+**Ny sæson starter 10. Januar 2023.**
 
----
-
-![Velkommen til Linedance](/assets/Sæson2022.jpg)
-
----
 
 Instruktør: **Lone Mathiasen**
