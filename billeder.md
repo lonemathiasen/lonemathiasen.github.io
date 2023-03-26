@@ -24,10 +24,6 @@ description: YOLO
 
 ---
 
-![Skærbæk 2021](/assets/Skærbæk 2021,1.jpg)
-
----
-
 ![Skærbæk 2018 Closeup](/assets/Skærbæk closeup.PNG)
 
 ---
