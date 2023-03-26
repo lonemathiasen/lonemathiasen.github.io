@@ -28,13 +28,13 @@ description: Awesome description here
 
 # **Bestyrelse:**
 
-Titel | Navn
---- | ---
-Formand | Hanne Nielsen
-Kasserer | Liese Mikkelsen
-Sekretær | Lis Noe-Nygaard
-Instruktør repræsentant | Lone Mathiasen
-Medlem | Jette Baade Mortensen
+Titel  |  Navn
+---  |  ---
+Formand  |  Hanne Nielsen
+Kasserer  |  Liese Mikkelsen
+Sekretær  |  Lis Noe-Nygaard
+Instruktør repræsentant  |  Lone Mathiasen
+Medlem  |  Jette Baade Mortensen
 
 ---
 
