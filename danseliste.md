@@ -39,6 +39,7 @@ description: Awesome description here
 * Down The Dixie Road
 * Down To The Honkeytonk
 * Dwight's Above And Beyond
+* Endless
 * Float Ya' Boat
 * Foot Boogie
 * Forever And Ever
@@ -71,17 +72,21 @@ description: Awesome description here
 * Louisiana
 * Louisiette
 * Love Grows
+* Love Her
 * Love Like Before
 * Make It
 * Mama's Pearls
 * Mamma Maria
 * Makita
+* Men In Denim
 * Mighty Fine
 * Most People
 * Mr. Lonely
 * My Little Old Lover
+* My Wrong Night
 * Nice And Easy
 * Old And Grey
+* Outside Looking In
 * Pick A Bale
 * Pick up Your Phone
 * Playboys
@@ -105,6 +110,8 @@ description: Awesome description here
 * Sunset Road
 * Such A Fool
 * Sweet Sweet Smile
+* Sweet & Texas
+* Tag On
 * Tell The World
 * The Boat To Liverpool
 * The Galway Gathering
@@ -113,6 +120,7 @@ description: Awesome description here
 * Tickets To The Blues
 * Time For Love
 * Toes
+* Toghether Again
 * Train Swing
 * Train Wreck
 * Tush Push
