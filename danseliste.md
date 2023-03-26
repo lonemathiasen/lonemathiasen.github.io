@@ -25,10 +25,12 @@ description: Awesome description here
 * Bosa Nova
 * Bottom Of The Bottle
 * Chica Boom Boom
+* Christmas Rock
 * Cold Heart
 * Come Dance With Me
+* Contra Cowboys
 * Corn
-* Country Boy Loven'
+* Country Boy Lovin'
 * Country Roads
 * Crazy Foot Mambo
 * Crystal Touch
@@ -36,14 +38,18 @@ description: Awesome description here
 * Do It All Again
 * Down The Dixie Road
 * Down To The Honkeytonk
+* Dwight's Above And Beyond
 * Float Ya' Boat
 * Foot Boogie
 * Forever And Ever
 * For The Longest Time
 * Galway Girl
 * Get It Right
+* Ghost Train
+* Give Me Your Tempo
 * Green Green Grass
 * Gypsy Queen
+* Heave Away
 * Hotel Angel
 * I Cloce My Eyes
 * I Must Be Dreaming
@@ -52,16 +58,20 @@ description: Awesome description here
 * In The Morning Sun
 * Irish Stew
 * I've Been Waiting For You
+* I Want A Cowboy For A Night
 * Joey On The Fiddle
 * Just Fly
 * Kill The Spiders
 * Knee Deep
 * Knock Off
+* Like A Star
 * Little Rumba
 * Lonely Blues
 * Lonely Drum
 * Louisiana
+* Louisiette
 * Love Grows
+* Love Like Before
 * Make It
 * Mama's Pearls
 * Mamma Maria
@@ -78,6 +88,7 @@ description: Awesome description here
 * Pretty Little Girl From Omagh
 * Reunited
 * Rollin' Home
+* Rum In My Coke
 * Sand
 * See You Smile
 * September 81
@@ -90,6 +101,7 @@ description: Awesome description here
 * Stars in My Eyes
 * Stay All Night
 * Storm And Stone
+* Summer In Ireland
 * Sunset Road
 * Such A Fool
 * Sweet Sweet Smile
@@ -104,7 +116,9 @@ description: Awesome description here
 * Train Swing
 * Train Wreck
 * Tush Push
-* You're Too Late
+* Until The Dawn
 * Walking On The Moon
 * When You Smile
+* You're To Late
+* 1 2 Snap
 
