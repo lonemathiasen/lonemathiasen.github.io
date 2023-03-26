@@ -30,15 +30,15 @@ description: Awesome description here
 
 Titel | Navn
 --- | ---
-Formand | Liese Mikkelsen
-Kasserer | Hanne Rasmussen
-Sekretær | Hanne Nielsen
+Formand | Hanne Nielsen
+Kasserer | Liese Mikkelsen
+Sekretær | Lis Noe-Nygaard
 Instruktør repræsentant | Lone Mathiasen
 Medlem | Jette Baade Mortensen
 
 ---
 
-Næste generalforsamling i Marts 2023.
+Næste generalforsamling i Marts 2024.
 
 
 ---
