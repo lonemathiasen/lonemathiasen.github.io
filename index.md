@@ -17,11 +17,11 @@ Skærbæk 2019
 
 Vi danser begynder og let øvede danse, vi forsøger at lave udfordringer for alle :-). Vi syntes det skal være sjovt og hyggeligt at mødes om dansen, så det sociale er også vigtigt i vores forening.
 
-Har du lyst til at prøve at være med, så kig forbi og dans med en aften, der er altid en gratis prøvetime.
+Har du lyst til at prøve at være med, så kig forbi og dans med en aften, der er altid 2 gratis prøvetimer.
 Vi glæder os til at se dig :-).
 
 
-**Ny sæson starter 10. Januar 2023.**
+**Ny sæson starter 15. August 2023.**
 
 
 Instruktør: **Lone Mathiasen**
