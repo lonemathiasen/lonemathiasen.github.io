@@ -44,8 +44,15 @@ Næste generalforsamling i Marts 2024.
 ---
 
 
-
 # Kontakt for yderligere info: 
 
 Instruktør Lone Mathiasen  
 Mobil 24245477
+
+---
+
+
+![Støvleknægt](/assets/Støvleknægt.jpg)
+
+
+---
