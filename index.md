@@ -29,6 +29,6 @@ Instruktører: **Mie og Lone**
 
 ---
 
-![Sæsonstart 2023](/assets/Linedance 2023.jpg)
+![Sæsonstart 2023](/assets/Linedance 2023.pdf)
 
 ---
