@@ -26,8 +26,10 @@ Vi glæder os til at se dig :-).
 
 Instruktører: **Mie og Lone**
 
+
 ---
 
 ![Sæsonstart 2023](/assets/Linedance 2023.jpg)
+
 
 ---
