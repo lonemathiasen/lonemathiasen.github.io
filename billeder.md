@@ -16,7 +16,7 @@ description: YOLO
  
 ---
 
-![Skærbæk 2023 - gågaden](/assets/Gågade 2023-1.jpg)
+![Skærbæk 2023 - gågaden](/assets/Gågaden 2023-1.jpg)
 
 ---
 
@@ -24,7 +24,7 @@ description: YOLO
 
 ---
 
-![Skærbæk 2023 Rygstykker](/assets/Rygstykker 2923.jpg)
+![Skærbæk 2023 Rygstykker](/assets/Rygstykker 2023.jpg)
 
 ---
 
