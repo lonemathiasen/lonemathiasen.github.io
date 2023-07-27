@@ -12,11 +12,11 @@ description: YOLO
 
 ---
 
-![Skærbæk piger](/assets/Skærbæk piger.png)
-
+![Skærbæk gågaden + Susanne](/assets/Gågaden 2023.jpg)
+ 
 ---
 
-![Skærbæk 2018 - gågaden](/assets/Gågade 2018.jpg)
+![Skærbæk 2023 - gågaden](/assets/Gågade 2023-1.jpg)
 
 ---
 
@@ -24,11 +24,11 @@ description: YOLO
 
 ---
 
-![Skærbæk 2018 Closeup](/assets/Skærbæk closeup.PNG)
+![Skærbæk 2023 Rygstykker](/assets/Rygstykker 2923.jpg)
 
 ---
 
-![Skærbæk og Colina Mar](/assets/Skærbæk:Colina Mar.png)
+![Afslutning 2023](/assets/Afslutning 2023-11.jpg)
 
 ---
 
