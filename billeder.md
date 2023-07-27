@@ -32,3 +32,11 @@ description: YOLO
 
 ---
 
+![Coronadans 2020](/assets/Coronadans2020.jpg)
+
+---
+
+![Støvler](/assets/Støvler.jpg)
+
+---
+
