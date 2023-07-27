@@ -4,6 +4,8 @@ title: Danseliste -
 description: Awesome description here
 ---
 
+
+
 # Årsdanse 2023
 
 * Love Grows
@@ -23,7 +25,7 @@ description: Awesome description here
 ---
 
 
-# Danse. Sæson 2022-2023:
+# Danse. Sæson 2023:
 
 * A Different Summer
 * A Lot About A Little
@@ -99,7 +101,6 @@ description: Awesome description here
 * Pick A Bale
 * Pick up Your Phone
 * Playboys
-* Pretty Little Girl From Omagh
 * Reunited
 * Rollin' Home
 * Rum In My Coke
@@ -107,7 +108,6 @@ description: Awesome description here
 * See You Smile
 * September 81
 * Sexy Eyes
-* Shape I'm In
 * She Cares
 * Something In The Water
 * Southern Dreams
