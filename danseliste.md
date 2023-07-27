@@ -14,6 +14,15 @@ description: Awesome description here
 * Knock Off
 
 
+---
+
+
+![Roselines banner](/assets/Banner 2023.jpg)
+
+
+---
+
+
 # Danse. Sæson 2022-2023:
 
 * A Different Summer
