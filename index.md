@@ -15,13 +15,18 @@ Skærbæk 2023
 
 
 
-Vi danser både begynder og let øvede danse og vi forsøger at lave udfordringer for alle :-). Vi syntes det skal være sjovt og hyggeligt at mødes om dansen, så det sociale er også vigtigt i vores forening.
+Vi danser både begynder og let øvede danse og vi forsøger at lave udfordringer for alle :-). Vi syntes det skal være sjovt og hyggeligt at mødes om dansen, så det sociale er også vigtigt i vores forening, så der er altid tid til en kop kaffe eller te i pausen.
 
 Har du lyst til at prøve at være med, så kig forbi og dans med en aften, der er altid 2 gratis prøvetimer.
 Vi glæder os til at se dig :-).
 
 
-**Ny sæson starter 15. August 2023 kl 18.30 på Hornslet Skole.**
+**NYT CATALAN-hold**
+
+**Starter torsdag d. 4. Januar 2024 kl 19:00 i Multisalen i Hornslet Hallen med Mie som instruktør.**
+
+
+**Ny sæson starter tirsdag 9. Januar 2024 kl 18:00 - 21:00 på Hornslet Skole.**
 
 
 Instruktører: **Mie og Lone**
