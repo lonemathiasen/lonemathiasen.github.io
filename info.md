@@ -38,7 +38,7 @@ Medlem  |  Jette Baade Mortensen
 
 ---
 
-Næste generalforsamling i Marts 2024.
+Næste generalforsamling tirsdag d. 27/2 - 2024.
 
 
 ---
@@ -46,7 +46,7 @@ Næste generalforsamling i Marts 2024.
 
 # Kontakt for yderligere info: 
 
-Instruktør Lone Mathiasen  
+Instruktør: Lone Mathiasen  
 Mobil 24245477
 
 ---
