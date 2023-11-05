@@ -6,14 +6,14 @@ description: Awesome description here
 
 
 
-# Årsdanse 2023
+# Årsdanse 2024
 
-* Love Grows
-* Mighty Fine
-* Bottom Of The Bottle
-* Make It
-* Storm And Stone
-* Knock Off
+* Always Will
+* Natural
+* I Still Fall For You
+* My Next Sad Song
+* Scootin’ Bootin'
+* Ghosted
 
 
 ---
@@ -30,6 +30,7 @@ description: Awesome description here
 * A Different Summer
 * A Lot About A Little
 * Alright Already
+* Always Will
 * Adalaida
 * Bad Habits Leads To You
 * Bonaparte's Retreat
@@ -57,6 +58,7 @@ description: Awesome description here
 * For The Longest Time
 * Galway Girl
 * Get It Right
+* Ghosted
 * Ghost Train
 * Give Me Your Tempo
 * Green Green Grass
@@ -69,6 +71,7 @@ description: Awesome description here
 * I Found Another You
 * In The Morning Sun
 * Irish Stew
+* I Still Fall For You
 * I've Been Waiting For You
 * I Want A Cowboy For A Night
 * Joey On The Fiddle
@@ -94,7 +97,9 @@ description: Awesome description here
 * Most People
 * Mr. Lonely
 * My Little Old Lover
+* My Next Sad Song
 * My Wrong Night
+* Natural
 * Nice And Easy
 * Old And Grey
 * Outside Looking In
@@ -109,6 +114,7 @@ description: Awesome description here
 * September 81
 * Sexy Eyes
 * She Cares
+* Scootin’ Bootin'
 * Something In The Water
 * Southern Dreams
 * Speak To The Sky
