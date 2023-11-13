@@ -20,7 +20,7 @@ Vi danser både begynder og let øvede danse og vi forsøger at lave udfordringe
 
 ## **NYT CATALAN-hold**
 
-**Starter torsdag d. 4. Januar 2024 kl 19:00 i Multisalen i Hornslet Hallen med Mie som instruktør.**
+**Starter torsdag d. 4. Januar 2024 kl 18:45 i Multisalen i Hornslet Hallen med Mie som instruktør.**
 
 
 ## **Linedance, begynder og let øvet**
