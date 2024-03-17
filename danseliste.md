@@ -25,7 +25,7 @@ description: Awesome description here
 ---
 
 
-# Danse. Sæson 2023:
+# Danse. Sæson 2023-2024:
 
 * A Different Summer
 * A Lot About A Little
