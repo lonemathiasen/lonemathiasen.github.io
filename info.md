@@ -38,7 +38,7 @@ Medlem  |  Jette Baade Mortensen
 
 ---
 
-Næste generalforsamling tirsdag d. 27/2 - 2024.
+Næste generalforsamling februar 2025.
 
 
 ---
