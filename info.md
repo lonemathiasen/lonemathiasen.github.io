@@ -7,7 +7,7 @@ description: Awesome description here
 # Vedtægter for Roselines:
 
 
-[Se vedtægterne her](/assets//Vedtægter Roselines 13.11.2018.docx)
+[Se vedtægterne her](/assets//Vedtægter Roselines 27-2-2024.docx)
 
 
 
@@ -16,6 +16,19 @@ description: Awesome description here
 
 
 [Se GDPR her](/assets//GDPR Roselines.docx)
+
+
+
+
+# Kontonummer Roselines:
+
+
+Reg. nr 7260 
+
+Konto nr. 0001344236
+
+Husk at skrive dit dit navn på overførslen
+
 
 
 
