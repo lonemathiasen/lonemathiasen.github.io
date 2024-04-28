@@ -11,21 +11,28 @@ Skærbæk 2023
 
 ---
 
-**Roselines** en en lille linedanceforening oprettet i efteråret 2018 med base i Hornslet. Vi danser hver **tirsdag fra kl 18.00 til 21.00 i den nye gymnastiksal på Hornslet Skole.** 
+**Roselines** en en lille linedanceforening oprettet i efteråret 2018 med base i Hornslet. Vi danser hver tirsdag og torsdag aften i Hornslet.
 
 
 
-Vi danser både begynder og let øvede danse og vi forsøger at lave udfordringer for alle :-). Vi syntes det skal være sjovt og hyggeligt at mødes om dansen, så det sociale er også vigtigt i vores forening og der er altid tid til en kop kaffe eller te i pausen.
+Vi danser både begynder og let øvede danse samt har et Catalan hold. Vi forsøger at lave udfordringer for alle :-), så kig forbi, det er lige meget om du er helt ny danser eller har danset før. 
 
+Vi syntes det skal være sjovt og hyggeligt at mødes om dansen, så det sociale er også vigtigt i vores forening og der er altid tid til kaffe eller te i pausen.
 
-## **CATALAN-hold**
-
-**Torsdag kl 18:45-20:15 i Multisalen i Hornslet Hallen. Mie er instruktør.**
 
 
 ## **Linedance, begynder og let øvet**
 
-**Tirsdag kl 18:00-21:00 i den nye gymnastiksal på Hornslet Skole. Lone er instruktør**
+**Tirsdag kl 18:00-21:00 i den nye gymnastiksal på Hornslet Skole. Sæsonstart d 20/8-2024. 
+Lone er instruktør**
+
+
+
+## **CATALAN-hold**
+
+**Torsdag kl 18:30-20:00. Sæsonstart d 22/8-2024. 
+Mie er instruktør.**
+
 
 
 Har du lyst til at prøve at være med, så kig forbi og dans med en aften, der er altid 2 gratis prøvetimer.
