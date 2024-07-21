@@ -28,15 +28,17 @@ Lone er instruktør**
 
 
 
+
 ## **CATALAN-hold**
 
-**Torsdag kl 18:30-20:00. Sæsonstart d 22/8-2024. 
+**Torsdag kl 18:30-20:00 i den gamle gymnastiksal på Hornslet Skole. Sæsonstart d 22/8-2024. 
 Mie er instruktør.**
 
 
 
 Har du lyst til at prøve at være med, så kig forbi og dans med en aften, der er altid 2 gratis prøvetimer.
 Vi glæder os til at se dig :-).
+
 
 
 Instruktører: **Mie og Lone**
