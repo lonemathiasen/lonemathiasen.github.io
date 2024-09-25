@@ -23,7 +23,7 @@ Vi syntes det skal være sjovt og hyggeligt at mødes om dansen, så det sociale
 
 ## **Linedance, begynder og let øvet**
 
-**Tirsdag kl 18:00-21:00 i den nye gymnastiksal på Hornslet Skole. Sæsonstart d 20/8-2024. 
+**Tirsdag kl 18:00-21:00 i den nye gymnastiksal på Hornslet Skole. 
 Lone er instruktør**
 
 
@@ -31,7 +31,7 @@ Lone er instruktør**
 
 ## **CATALAN-hold**
 
-**Torsdag kl 18:30-20:00 i den gamle gymnastiksal på Hornslet Skole. Sæsonstart d 22/8-2024. 
+**Torsdag kl 18:30-20:00 i den gamle gymnastiksal på Hornslet Skole. 
 Mie er instruktør.**
 
 
