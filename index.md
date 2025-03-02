@@ -31,7 +31,7 @@ Lone er instruktør**
 
 ## **CATALAN-hold**
 
-**Torsdag kl 18:30-20:00 i den gamle gymnastiksal på Hornslet Skole. 
+**Torsdag kl 18:30-20:00 i Multirummet i Hornslet Hallen. 
 Mie er instruktør.**
 
 
