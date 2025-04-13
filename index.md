@@ -26,8 +26,7 @@ Vi syntes det skal være sjovt og hyggeligt at mødes om dansen, så det sociale
 **Tirsdag kl 18:00-21:00 i den nye gymnastiksal på Hornslet Skole. 
 Lone er instruktør**
 
-**Sæsonstart tirsdag d. 12/8-25 kl 18:00**
-
+### *Sæsonstart tirsdag d. 12/8-25 kl 18:00*
 
 
 
@@ -36,7 +35,7 @@ Lone er instruktør**
 **Torsdag kl 18:30-20:00 i Multirummet i Hornslet Hallen. 
 Mie er instruktør.**
 
-**Sæsonstart torsdag d. 14/8-25 kl 18:30**
+### *Sæsonstart torsdag d. 14/8-25 kl 18:30*
 
 
 
