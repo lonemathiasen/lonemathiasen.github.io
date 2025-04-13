@@ -37,7 +37,7 @@ Mie er instruktør.**
 
 ### *Sæsonstart torsdag d. 14/8-25 kl 18:30*
 
-
+---
 
 Har du lyst til at prøve at være med, så kig forbi og dans med en aften, der er altid 2 gratis prøvetimer.
 Vi glæder os til at se dig :-).
