@@ -28,7 +28,7 @@ Lone er instruktør**
 
 ### *Sæsonstart tirsdag d. 12/8-25 kl 18:00*
 
-
+---
 
 ## **CATALAN-hold**
 
