@@ -6,14 +6,14 @@ description: Awesome description here
 
 
 
-# Årsdanse 2025
+# Årsdanse 2026
 
-* A Bar Song
-* Full Throttle
-* Hold Me Now
-* Homecomming
-* My Kinda Crowd
-* The Last Shanty
+* Baby I Wanna Know
+* Brotherly Love
+* Heart In Two
+* No Time To Talk
+* Shot Of Glory
+* Sumoni
 
 
 ---
@@ -27,10 +27,14 @@ description: Awesome description here
 
 # Danse. Sæson 2024-2025:
 
+
+* 5 Times You
 * A Bar Song
-* Alright Already
 * Always Will
-* Bad Habits Leads To You
+* A Rattlesnake Kiss
+* Azizam
+* Azizam AB
+* Best Of My Love
 * Bosa Nova
 * Bottom Of The Bottle
 * Christmas Rock
@@ -38,58 +42,52 @@ description: Awesome description here
 * Come Dance With Me
 * Couldn't Forget
 * Corn
-* Country Boy Lovin'
 * Country Roads
-* Cowboy Rhythm
 * Cut A Rug
-* Down The Dixie Road
-* Down To The Honkeytonk
 * Fallin' In Love
 * Full Throttle
 * Galway Girl
 * Ghosted
 * Ghost Train
 * Give Me Your Tempo
+* Glass Of Wine
 * Green Green Grass AB
 * Green Green Grass
-* Gypsy Queen
 * Heart Of An Angel
 * Heave Away
+* Heel, Toe, Rodeo
 * Hold Me Now
 * Homecomming
 * Honkytonk Heartache
-* Honkytonk Highway
 * Hurrycane Kiss
 * I Cloce My Eyes
 * Ice Breaker
+* In The Morning Sun
 * I Still Fall For You
 * Irish Stew
 * Kill The Spiders
 * Knock Off
 * Little Rumba
 * Love Grows
+* Love Me To Heaven
 * Made In Mexico
 * Magic Nights
-* Make It
 * Make Some New Love
 * Makita
 * Mama's Pearls
 * Mamma Maria
 * Mile After Mile
-* Mileys Flowers
 * My Kinda Crowd
 * My Little Old Lover
 * My Next Sad Song
 * My Teacher
 * Natural
 * Old And Grey
-* People Are Crazy
+* Real Men Cry
 * Pick A Bale
-* Reunited
 * Rocket To The Sun
-* Same Old Differet Story
 * Scootin’ Bootin'
-* See You Smile
+* Searching Soul
 * September 81
 * Sexy Eyes
 * Shakin Mix
@@ -100,18 +98,15 @@ description: Awesome description here
 * Southern Gospel
 * Stand By Me
 * Storm And Stone
-* Summer In Ireland
+* Sunset Memories
 * Sunset Road
 * Sweet Sweet Smile
 * Texas Smile
-* That Honky Tonk Highway
-* The Galway Gathering
+* That Missing Piece
 * The Last Shanty
 * The Most Beautifuk Girl
 * Tickets To The Blues
-  
 * Train Wreck
-* Un Poquito
 * Until The Dawn
 * Walking On The Moon
 * We Can't Wait
