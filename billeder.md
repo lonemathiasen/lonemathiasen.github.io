@@ -20,11 +20,11 @@ description: YOLO
 
 ---
 
-![Hatte](/assets/Hatte.JPG)
+![Fru Hansen 2025](/assets/FruHansen4-1.jpg)
 
 ---
 
-![Skærbæk 2023 Rygstykker](/assets/Rygstykker 2023.jpg)
+![Skærbæk 2023 Rygstykker](/assets/FruHansen6-1.jpg)
 
 ---
 
