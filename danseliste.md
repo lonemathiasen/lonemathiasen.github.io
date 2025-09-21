@@ -25,7 +25,7 @@ description: Awesome description here
 ---
 
 
-# Danse. Sæson 2024-2025:
+# Danse. Sæson 2025-2026:
 
 
 * 5 Times You
