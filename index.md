@@ -15,9 +15,9 @@ Skærbæk 2023
 
 
 
-Vi danser både begynder og let øvede danse samt har et Catalan hold. Vi forsøger at lave udfordringer for alle :-), så kig forbi, det er lige meget om du er helt ny danser eller har danset før. 
+Vi danser både begynder, begynder+ og let øvede danse samt har et Catalan hold. Vi forsøger at lave udfordringer for alle :-), så kig forbi, det er lige meget om du er helt ny danser eller har danset før. 
 
-Vi syntes det skal være sjovt og hyggeligt at mødes om dansen, så det sociale er også vigtigt i vores forening, der er altid plads til lidt snak og grin og der er tid til kaffe eller te i pausen.
+Vi syntes det skal være sjovt og hyggeligt at mødes om dansen, så det sociale er også vigtigt i vores forening, der er altid plads til lidt snak og grin samt der er tid til kaffe eller te i pausen.
 
 
 
@@ -31,14 +31,14 @@ Lone er instruktør**
 
 ## **CATALAN-hold**
 
-**Torsdag kl 18:30-20:00 i Multirummet i Hornslet Hallen. 
+**Torsdag kl 18:00-19:30 i Multirummet i Hornslet Hallen. 
 Mie er instruktør.**
 
 
 
 ---
 
-Har du lyst til at prøve at være med, så kig forbi og dans med en aften. Der er altid 2 gratis prøvetimer.
+Har du lyst til at prøve at være med, så kig forbi og dans med et par gange. Der er altid 2 gratis prøvetimer.
 Vi glæder os til at se dig :-).
 
 
