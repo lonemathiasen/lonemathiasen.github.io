@@ -41,14 +41,14 @@ Husk at skrive dit dit navn på overførslen
 
 # **Bestyrelse:**
 
-Titel  |  Navn
----  |  ---
-Formand  |  Lis Noe-Nygaard
-Kasserer  |  Liese Mikkelsen
-Sekretær  |  Lone Mathiasen
-Medlem  |  Thomas Lilholt
-Medlem  |  Jette Baade Mortensen 
-Instruktør repræsentant  |  Lone Mathiasen
+Titel    |    Navn
+---    |    ---
+Formand    |  Lis Noe-Nygaard
+Kasserer    |  Liese Mikkelsen
+Sekretær    |  Lone Mathiasen
+Medlem    |  Thomas Lilholt
+Medlem    |  Jette Baade Mortensen 
+Instruktør   |  Lone Mathiasen
 
 ---
 
