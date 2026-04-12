@@ -43,15 +43,16 @@ Husk at skrive dit dit navn på overførslen
 
 Titel  |  Navn
 ---  |  ---
-Formand  |  Hanne Nielsen
+Formand  |  Lis Noe-Nygaard
 Kasserer  |  Liese Mikkelsen
-Sekretær  |  Lis Noe-Nygaard
+Sekretær  |  Lone Mathiasen
+Medlem  |  Thomas Lilholt
+Medlem  |  Jette Baade Mortensen 
 Instruktør repræsentant  |  Lone Mathiasen
-Medlem  |  Jette Baade Mortensen
 
 ---
 
-Næste generalforsamling 24 Februar 2026.
+Næste generalforsamling Februar 2027.
 
 
 ---
