@@ -25,8 +25,8 @@ Vi syntes det skal være sjovt og hyggeligt at mødes om dansen, så det sociale
 
 # **Sæsonstart 2026**
 
-**Ny sæson starter tirsdag d. 18.08.2026 kl 18:00 på Hornslet Skole og  
-torsdag d. 20.08.2026 kl 18:00 i Hornslet Hallen.**
+**Ny sæson starter *tirsdag d. 18.08.2026 kl 18:00* på Hornslet Skole og  
+*torsdag d. 20.08.2026 kl 18:00* i Hornslet Hallen.**
 
 
 ---
