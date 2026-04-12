@@ -48,7 +48,7 @@ Kasserer    |  Liese Mikkelsen
 Sekretær    |  Lone Mathiasen
 Medlem    |  Thomas Lilholt
 Medlem    |  Jette Baade Mortensen 
-Instruktør   |  Lone Mathiasen
+Instruktør repræsentant  |  Lone Mathiasen
 
 ---
 
