@@ -4,10 +4,10 @@ title:
 description: Awesome description here
 ---
 
- ![Roselines i Skærbæk 2023](/assets/Skærbæk2023-1.jpg)
+ ![Roselines dans ved Fru Hansen 2025](/assets/FruHansen2025.jpg)
 
 
-Skærbæk 2023
+Fru Hansens gårdbutik 2025
 
 ---
 
