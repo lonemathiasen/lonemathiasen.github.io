@@ -20,7 +20,7 @@ description: YOLO
 
 ---
 
-![Fru Hansen 2025](/assets/FruHansen4-1.jpg)
+![Skærbæk 2023](/assets/Skærbæk2023-1.jpg)
 
 ---
 
