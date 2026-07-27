@@ -25,15 +25,17 @@ Vi syntes det skal være sjovt og hyggeligt at mødes om dansen, så det sociale
 
 # **Sæsonstart 2026**
 
-**Ny sæson starter *tirsdag d. 18.08.2026 kl 18:00* på Hornslet Skole og  
+**Ny sæson starter *tirsdag d. 18.08.2026 kl 18:00* Hornslet Hallen og  
 *torsdag d. 20.08.2026 kl 18:00* i Hornslet Hallen.**
 
 
 ---
 
-## **Linedance, begynder og let øvet**
+## **Linedance, begynder, begynder+ og let øvet**
 
 **Tirsdag kl 18:00-21:00 i den nye Multisal i Hornslet Hallen.**  
+Vi danser til alt mulig musik, både nyt, gammelt, hurtigt og lidt country musik.
+
 Lone er instruktør
 
 
@@ -42,13 +44,15 @@ Lone er instruktør
 ## **CATALAN-hold**
 
 **Torsdag kl 18:00-19:30 i Multirummet i Hornslet Hallen.**  
+Vi danser til country musik om torsdagen.
+
 Mie er instruktør.
 
 
 
 ---
 
-Har du lyst til at prøve at være med, så kig forbi og dans med et par gange. Der er altid 2 gratis prøvetimer.
+Har du lyst til at prøve at være med, så kig forbi og dans med et par gange. Der er altid 2 gratis prøveaftner.
 Vi glæder os til at se dig :-).
 
 
