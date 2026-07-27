@@ -20,6 +20,10 @@ description: YOLO
 
 ---
 
+![Sommerafslutning 2026](/assets/Sommer 2026.jpg)
+
+---
+
 ![Skærbæk 2023](/assets/Skærbæk2023-1.jpg)
 
 ---
