@@ -20,7 +20,7 @@ description: YOLO
 
 ---
 
-![Sommerafslutning 2026](/assets/Sommer 2026.jpg)
+![Sommerafslutning 2026](/assets/Sommer2026.jpg)
 
 ---
 
